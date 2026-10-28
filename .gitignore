@@ -1,0 +1,6 @@
+target/
+**/Cargo.lock
+!/Cargo.lock
+/day*/src/input.txt
+/day*/src/puzzle_input.txt
+/day*/src/test.txt
